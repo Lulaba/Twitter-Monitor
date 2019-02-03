@@ -14,15 +14,15 @@
                 ""
             ],
             "webhook_urls" : [
-                "https://ptb.discordapp.com/api/webhooks/1234567890/XXXXXXXXXXXXXXXXXXXXXXXXXX"
+                "https://discordapp.com/api/webhooks/541566057169813504/vshGq8ogsSG4jDARE2xbnWGHG82ABG-IL7wdYFEJKUvZEOfQnHXFcx-XSwhIEbuNqJYb"
             ]
         }
     ],
     "Twitter" : {
-        "access_token" : "X-X",
-        "access_token_secret" : "X",
-        "consumer_key" : "X",
-        "consumer_secret" : "X"
+        "access_token" : "1029416311112302594-y61cX4y16AyhbZQvfLRR6sMmbk7wZf",
+        "access_token_secret" : "AMTrl8t5bER3u6RXPnCiuGvHIBs8gkPxuO5Tki7Z7Spoc",
+        "consumer_key" : "ac2nSOzNnmc5UNaEHzsl2HrVw",
+        "consumer_secret" : "fqLGVmYW66FPjB0XVfq3btuFbQPHMioNjXEOwTFsBG3Kq2JWoz"
     },
     "twitter_ids" : []
 }
