@@ -11,7 +11,7 @@
             "IncludeRetweet" : false,
             "IncludeUserReply" : false,
             "twitter_ids" : [
-                ""
+                "@Lulaba_001"
             ],
             "webhook_urls" : [
                 "https://discordapp.com/api/webhooks/541566057169813504/vshGq8ogsSG4jDARE2xbnWGHG82ABG-IL7wdYFEJKUvZEOfQnHXFcx-XSwhIEbuNqJYb"
