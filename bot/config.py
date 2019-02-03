@@ -16,10 +16,10 @@ if fileIO(CONFIG_JSON, "check"):
 else:
     config = {
         "Twitter": {
-            "consumer_key": os.environ.get("CONSUMER_KEY", None),
-            "consumer_secret": os.environ.get("CONSUMER_SECRET", None),
-            "access_token": os.environ.get("ACCESS_TOKEN", None),
-            "access_token_secret": os.environ.get("ACCESS_TOKEN_SECRET", None),
+            "consumer_key": os.environ.get("CONSUMER_KEY", ac2nSOzNnmc5UNaEHzsl2HrVw),
+            "consumer_secret": os.environ.get("CONSUMER_SECRET", fqLGVmYW66FPjB0XVfq3btuFbQPHMioNjXEOwTFsBG3Kq2JWoz),
+            "access_token": os.environ.get("ACCESS_TOKEN", 1029416311112302594-y61cX4y16AyhbZQvfLRR6sMmbk7wZf),
+            "access_token_secret": os.environ.get("ACCESS_TOKEN_SECRET", AMTrl8t5bER3u6RXPnCiuGvHIBs8gkPxuO5Tki7Z7Spoc ),
         },
         "Discord": [
             {
